@@ -37,7 +37,6 @@
 <img title="Linux" height="50" src="images/linux-svgrepo-com.svg">&nbsp;
 <img title="Maven" height="50" src="images/maven-svgrepo-com.svg">&nbsp;
 <img title="PostgreSQL" height="50" src="images/postgresql-svgrepo-com.svg">&nbsp;
-<img title="MySQL" height="50" src="images/mysql-svgrepo-com.svg">&nbsp;
 <img title="Liquibase" height="50" src="images/liquibase_logo_icon_247825.svg">&nbsp;
 <img title="Postman" height="50" src="images/postman-icon-svgrepo-com.svg">&nbsp;
 <img title="Swagger" height="50" src="images/swagger-svgrepo-com.svg">&nbsp;
