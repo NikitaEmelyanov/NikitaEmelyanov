@@ -7,7 +7,7 @@
 
 ## Something about me
 
-### My education
+### 🎓 My education
 
 - Voronezh State Technical University, Voronezh
   Agricultural Engineering (Bachelor of Engineering and Technology, 2012-2016)
@@ -16,7 +16,7 @@
 
 ---
 
-### My projects
+### 🚀 My favorite projects
 
 - [Explore With Me](https://github.com/NikitaEmelyanov/java-explore-with-me) - an analogue of event poster
 - [Share It](https://github.com/NikitaEmelyanov/java-shareit) - a platform, where you can share your items with other users
@@ -25,7 +25,7 @@
 
 ---
 
-### My stack
+### 🛠️ My stack
 
 <img title="Java" height="50" src="images/java-svgrepo-com.svg">&nbsp;
 <img title="Spring" height="50" src="images/spring-3.svg">&nbsp;
