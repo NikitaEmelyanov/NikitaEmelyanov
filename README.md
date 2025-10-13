@@ -26,7 +26,7 @@
 ### My stack
 
 <img title="Java" height="50" src="images/java-svgrepo-com.svg">&nbsp;
-<img title="Spring" height="50" src="images/spring-svgrepo-com.svg">&nbsp;
+<img title="Spring" height="50" src="images/spring-3.svg">&nbsp;
 <img title="Hibernate" height="50" src="images/hibernate-svgrepo-com.svg">&nbsp;
 <img title="Apache Kafka" height="50" src="images/apachekafka-svgrepo-com.svg">&nbsp;
 <img title="Lombok" height="50" src="images/pimientorojo_122736.svg">&nbsp;
