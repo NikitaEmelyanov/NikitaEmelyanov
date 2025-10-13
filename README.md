@@ -45,4 +45,4 @@
 <img title="JSON" height="50" src="images/json-file-svgrepo-com.svg">&nbsp;
 <img title="XML" height="50" src="images/xml-svgrepo-com.svg">&nbsp;
 <img title="Jira" height="50" src="images/jira-3.svg">&nbsp;
-<img title="Confluence" height="50" src="images/confluence.svg">&nbsp;
+<img title="Confluence" height="50" src="images/Atlassian_Confluence_2017_logo_(cropped).svg">&nbsp;
