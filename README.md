@@ -38,6 +38,7 @@
 <img title="Maven" height="50" src="images/maven-svgrepo-com.svg">&nbsp;
 <img title="PostgreSQL" height="50" src="images/postgresql-svgrepo-com.svg">&nbsp; 
 <img title="Liquibase" height="50" src="images/cta-icon.svg">&nbsp;
+<img title="Redis" height="50" src="images/redis-logo.svg">&nbsp;
 <img title="Postman" height="50" src="images/postman-icon-svgrepo-com.svg">&nbsp;
 <img title="Swagger" height="50" src="images/swagger-svgrepo-com.svg">&nbsp;
 <img title="OpenApi" height="50" src="images/openapiinitiative-svgrepo-com.svg">&nbsp;
