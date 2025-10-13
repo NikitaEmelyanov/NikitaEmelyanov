@@ -42,4 +42,4 @@
 <img title="Swagger" height="50" src="images/swagger-svgrepo-com.svg">&nbsp;
 <img title="OpenApi" height="50" src="images/openapiinitiative-svgrepo-com.svg">&nbsp;
 <img title="JSON" height="50" src="images/json-file-svgrepo-com.svg">&nbsp;
-<img title="XML" height="50" src="images/xml-svgrepo-com.svg">&nbsp;[](url)
+<img title="XML" height="50" src="images/xml-svgrepo-com.svg">&nbsp;
