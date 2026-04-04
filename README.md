@@ -11,7 +11,6 @@
 
 - Voronezh State Technical University, Voronezh
   Agricultural Engineering (Bachelor of Engineering and Technology, 2012-2016)
-- Java Developer (Yandex Practicum, 2023-2024)
 
 
 ---
